@@ -1,0 +1,42 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+}
+
+footer{
+    font-family: serif;
+    color: yellowgreen;
+}
+
+.H1s{
+    color: aquamarine;
+}
+
+.Summary{
+    color: red;
+}
+
+.Education{
+    color: grey;
+}
+
+.list{
+    color:turquoise;
+}
+
+.Work{
+    color: blue;
+}
+
+.Skills{
+    color: magenta;
+}
+
+.text{
+    font-style: italic;
+    color: purple;
+}
+
+.Awards{
+    color: brown;
+}
